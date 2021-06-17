@@ -1,6 +1,8 @@
 # pi-epaper
 my python files for waveshare epaper display 2.13in
 
+The Raspberry Pi GPIO pinout guide: https://pinout.xyz/pinout/213_inch_e_paper_phat#
+
 
 "imagefont.truetype() - cannot open resource" error
 
