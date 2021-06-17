@@ -1,2 +1,2 @@
 # pi-epaper
-files for waveshare epaper display 2.13in
+my python files for waveshare epaper display 2.13in
