@@ -13,3 +13,19 @@ for example: if you want to use FreeSans.ttf(/usr/share/fonts/truetype/freefont/
     font = ImageFont.truetype('FreeSans.ttf', 24)
 
 If you want to use your own font copy the .ttf font file to '/usr/share/fonts/truetype'
+
+body = ImageFont.truetype(os.path.join(pic_dir, 'AvenirNext.ttc'), 18, index=5)
+
+"""Index of Avenir Next font:
+    0 Medium
+    1 Regular
+    2 Ultra Light
+    3 Italic
+    4 Medium Italic
+    5 Ultra Light Italic
+    6 Bold
+    7 Demi Bold
+    8 Heavy
+    9 Bold Italic
+    10 Demi Bold Italic
+    11 Heavy Italic"""
